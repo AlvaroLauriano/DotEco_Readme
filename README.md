@@ -1,6 +1,6 @@
-# RadarStation iiiii
+# DotEco
 <h1 align="center"> 
-<img src=”assets/Img/LOGO.PNG”>
+<img src=”assets/Img/LOGO.png”>
 </h1>
 
 
