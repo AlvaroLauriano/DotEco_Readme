@@ -14,16 +14,17 @@
 The application was developed to facilitate selective collection, through scheduling, for the collection of recyclable waste
 
 
-# Project Status ✔️
+# Project Status ♻️
+
 <h4 align="center"> 
-	🚧 ♻️DotEco♻️ Under construction... 🚧
+	🚧 DotEco Under construction... 🚧
 </h4>
 
 # Usage example
 Telas com exemplos (inserir gifs)
 
 
-# Technologies 👩‍💻 Used :
+# Technologies Used 👩‍💻 :
 - C# 
 - Angular
 - Git
