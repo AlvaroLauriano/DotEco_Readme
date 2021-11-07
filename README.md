@@ -9,9 +9,9 @@
 
 # About the project
 
-<img src="assets/Img/Logo_Uninassau.png"> RadarStation é uma aplicação mobile construída durante o 7ª período do Curso de Sistemas de Informação da Faculdade Uninassau Olinda.
+<img src="assets/Img/Logo_Uninassau.png"> DotEco is a website built during the 8th period of the Information Systems Course at Faculdade Uninassau Olinda.
 
-A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da sua localização, exibindo os preços dos combustíveis..
+The application was developed to facilitate selective collection, through scheduling, for the collection of recyclable waste
 
 
 # ✅ Status do Projeto
