@@ -14,42 +14,52 @@
 The application was developed to facilitate selective collection, through scheduling, for the collection of recyclable waste
 
 
-# ✅ Status do Projeto
+# ✅ Project Status
 <h4 align="center"> 
 	🚧 DotEco 🚀 Under construction... 🚧
 </h4>
 
-# Layout mobile
-![Mobile 1](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20bem%20vindo.png)![Mobile 2](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20bem%202.png)![Mobile 3](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20de%20cadastro.png)![Mobile 4](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/maps.png)![Mobile 4](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/gif-radar.gif )
+# Usage example
+Telas com exemplos (inserir gifs)
 
 
-# 📱 Tecnologias Utilizadas:
-- JavaScript 
-- React Native
-- Firebase (DB)
+# 📱 Technologies Used:
+- C# 
+- Angular
+- Git
+- Bootstrap
+- SQL
 
 
-### Pré-requisitos
+
+
+# Installation
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [AndroidStudio](https://developer.android.com/studio) e o  [jdk8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
+[Git](https://git-scm.com), [Angular](https://angular.io/cli) e o  [jdk8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 
-### # 📥 Como Baixar e 🎲 Rodar o Projeto.  
+# Development setup
+
+Describe how to install all development dependencies and consider do this for multiple platforms. (Descreva como instalar todas as dependências de desenvolvimento e considere fazer isso para várias plataformas.)
+
+make install
+npm test
+
 
 ```bash
 # Clone este repositório
-$ git clone  https://github.com/Pedrolustosa/RadarStation.git
+$ git clone  https://github.com/Pedrolustosa/DotEco.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd 
 
 # Instale as dependências
-$ yarn install
+$ (?)
 
 # Executar o projeto
-$ npx react-native run-android
+$ (?)
 
 
 
