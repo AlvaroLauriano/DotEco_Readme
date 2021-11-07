@@ -1,6 +1,6 @@
 # DotEco
 <h1 align="center"> 
-<img src="assets/Img/LOGO.png">
+<img src="assets/Img/LOGO.png" width="350px" height= "350px">
 </h1>
 
 
