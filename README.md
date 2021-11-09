@@ -1,6 +1,6 @@
 # DotEco
 <h1 align="center"> 
-<img src="Alvaro/assets/Img/Logo_DotEco.png" width="350px" height= "350px">
+<img src="alvaro/assets/Img/Logo_DotEco.png" width="350px" height= "350px">
 </h1>
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlvaroLauriano/DotEco_Readme/blob/main/LICENSE) ![ ](https://img.shields.io/badge/website-DOTECO-COLOR) ![ ](https://img.shields.io/badge/Sustainability-COLOR) ![ ](https://img.shields.io/badge/Recycling-COLOR) 
